@@ -1,1 +1,1 @@
-This project has been written in Python 3.x.
+I did this project in python 3 using tensorflow as a part of Udacity Advanced Machine Learning Nanodegree program. The goal of the project was to implement a Convolutional Neural Network to classify images using CIFAR-10 dataset.  
